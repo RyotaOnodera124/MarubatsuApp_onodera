@@ -13,6 +13,7 @@
 		FC12C0F62AA2AE7500F15785 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC12C0F42AA2AE7500F15785 /* Main.storyboard */; };
 		FC12C0F82AA2AE7600F15785 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC12C0F72AA2AE7600F15785 /* Assets.xcassets */; };
 		FC12C0FB2AA2AE7600F15785 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC12C0F92AA2AE7600F15785 /* LaunchScreen.storyboard */; };
+		FCAEB75E2AA57FAF00C47E2A /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCAEB75D2AA57FAF00C47E2A /* QuestionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FC12C0F72AA2AE7600F15785 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC12C0FA2AA2AE7600F15785 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC12C0FC2AA2AE7600F15785 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCAEB75D2AA57FAF00C47E2A /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FC12C0EE2AA2AE7500F15785 /* AppDelegate.swift */,
 				FC12C0F02AA2AE7500F15785 /* SceneDelegate.swift */,
 				FC12C0F22AA2AE7500F15785 /* ViewController.swift */,
+				FCAEB75D2AA57FAF00C47E2A /* QuestionViewController.swift */,
 				FC12C0F42AA2AE7500F15785 /* Main.storyboard */,
 				FC12C0F72AA2AE7600F15785 /* Assets.xcassets */,
 				FC12C0F92AA2AE7600F15785 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				FC12C0F32AA2AE7500F15785 /* ViewController.swift in Sources */,
 				FC12C0EF2AA2AE7500F15785 /* AppDelegate.swift in Sources */,
+				FCAEB75E2AA57FAF00C47E2A /* QuestionViewController.swift in Sources */,
 				FC12C0F12AA2AE7500F15785 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
